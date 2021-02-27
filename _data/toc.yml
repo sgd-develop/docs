@@ -1,15 +1,15 @@
-- title: Documentation
+- title: Documentação
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: "Assinatura de anexo"
+      url: "docs/assinatura-anexo"
       children:
         - title: Features
-          url: "docs/getting-started#getting-started"
+          url: "docs/assinatura-anexo#getting-started"
         - title: Development
-          url: "docs/getting-started#development"
+          url: "docs/assinatura-anexo#development"
         - title: Customization
-          url: "docs/getting-started#customization"
+          url: "docs/assinatura-anexo#customization"
     - title: "Extras"
       url: "docs/extras"
       children:
